@@ -1,0 +1,15 @@
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\bin\Debug\ChaiCafe.exe.config
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\bin\Debug\ChaiCafe.exe
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\bin\Debug\ChaiCafe.pdb
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.csprojResolveAssemblyReference.cache
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.Form1.resources
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.Properties.Resources.resources
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.csproj.GenerateResource.Cache
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.exe
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.pdb
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.Login.resources
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.Menu.resources
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.User.resources
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.Items.resources
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.UserData.resources
+D:\vp\LABS\Lab-04\ChaiCafe\ChaiCafe\obj\Debug\ChaiCafe.order.resources
